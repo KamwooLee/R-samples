@@ -1,14 +1,3 @@
-# Data Mining
-
-### [Comparing prediction accuracy of ML algorithms](codes/ML_methods_accuracy_comparison.R)
-* Classification
-  * Data: Zipcode, Iris Data
-  * Methods: KNN, LDA, QDA, Logistic Regression, Decision Tree, Boosting Decision Trees, Random Forest, Suport Vector Machine, Neural Net
-* Regression
-  * Data: Prostate Data
-  * Methods: KNN, Linear Regression, LR with PCA, Ridge Rigression, Model Averaging, Decision Tree, Boosting Decision Trees, Random Forest, Support Vector Machine, Neural Net
-
-
 # Exploratory Data Analysis
 
 ### [Analysis of Infant Mortality in Developing Countries](codes/Analysis_of_Infant_Mortality_in_Developing_Countries.R)
@@ -22,7 +11,18 @@
    * DTP immunization
    * prevalence of HIV 
  * Methods: Median Polish, Transformation by peudo-sigma vs. mid, Bootstaping, Correlation Median Estimator
- 
+
+
+# Data Mining
+
+### [Comparing prediction accuracy of ML algorithms](codes/ML_methods_accuracy_comparison.R)
+* Classification
+  * Data: Zipcode, Iris Data
+  * Methods: KNN, LDA, QDA, Logistic Regression, Decision Tree, Boosting Decision Trees, Random Forest, Suport Vector Machine, Neural Net
+* Regression
+  * Data: Prostate Data
+  * Methods: KNN, Linear Regression, LR with PCA, Ridge Rigression, Model Averaging, Decision Tree, Boosting Decision Trees, Random Forest, Support Vector Machine, Neural Net
+
 
 # Text Mining
 
