@@ -12,7 +12,7 @@
 # Exploratory Data Analysis
 
 ### [Analysis of Infant Mortality in Developing Countries](codes/Analysis_of_Infant_Mortality_in_Developing_Countries.R)
- * Data: 8 development datasets from the World Bank (aggregated survey data from 217 countries between 2000 and 2015)
+ * Data: 8 development datasets from the World Bank (from 217 countries between 2000 and 2015)
    * Infant mortality rate
    * Poverty headcount ratio at 1.90 a day
    * Rural poverty gap at national poverty lines
@@ -24,7 +24,7 @@
  * Methods: Median Polish, Transformation by peudo-sigma vs. mid, Bootstaping, Correlation Median Estimator
  
 
-# Text as Data
+# Text Mining
 
 ### [TDM analysis of the Economic Report of the President](codes/TDM_analysis.R)
  * Data: Economic Report of the President (1947 - 2016)
@@ -38,3 +38,17 @@
  * Data: Economic Report of the President (1947 - 2016)
  * Methods: topic modeling, visualization
  
+
+# Statistical Modeling
+
+### [Analysis of Train Accidents in the U.S. during 2001 - 2005](codes/Train_Accidents.R)
+ * Data: Train Accident Catalog from the Federal Railroad Administration
+ * Methods: Principal Component Analysis, stepwise regression, patial F test, AIC, BIC, Boxcox transformation, Cross-validation
+ 
+### [Spam Filter Modeling](codes/Spam_Mail_Detection.R)
+ * Data: Manually labeled emails
+ * Methods: Time Series Analysis (AR, MA, ARIMA), Seasonality Analysis 
+ 
+### [Organ Transplant Center Comparison](codes/Kidney_Transplant.R)
+ * Data: Kidney and liver transplant data from the Organ Procurement and Transplantation Network
+ * Methods: Linear Mixed Effects Models, ACF, PACF, Poisson Regression, Quasi-Poisson model
