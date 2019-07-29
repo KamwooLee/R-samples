@@ -23,3 +23,18 @@
    * prevalence of HIV 
  * Methods: Median Polish, Transformation by peudo-sigma vs. mid, Bootstaping, Correlation Median Estimator
  
+
+# Text as Data
+
+### [TDM analysis of the Economic Report of the President](codes/TDM_analysis.R)
+ * Data: Economic Report of the President (1947 - 2016)
+ * Methods: Preprocessing, Term Document Matrix, Comparative Analysis
+ 
+### [Text clustering of the Economic Report of the President](codes/text_clustering.R)
+ * Data: Economic Report of the President (1947 - 2016)
+ * Methods: clustering, visualization
+ 
+### [Topic modeling of the Economic Report of the President](codes/text_clustering.R)
+ * Data: Economic Report of the President (1947 - 2016)
+ * Methods: topic modeling, visualization
+ 
