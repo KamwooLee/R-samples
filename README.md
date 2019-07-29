@@ -15,7 +15,7 @@
 
 # Data Mining
 
-### [Comparing prediction accuracy of ML algorithms](codes/ML_methods_accuracy_comparison.R)
+### [Comparing Prediction Accuracy of ML Algorithms](codes/ML_methods_accuracy_comparison.R)
 * Classification
   * Data: Zipcode, Iris Data
   * Methods: KNN, LDA, QDA, Logistic Regression, Decision Tree, Boosting Decision Trees, Random Forest, Suport Vector Machine, Neural Net
@@ -26,15 +26,15 @@
 
 # Text Mining
 
-### [TDM analysis of the Economic Report of the President](codes/TDM_analysis.R)
+### [TDM analysis](codes/TDM_analysis.R)
  * Data: Economic Report of the President (1947 - 2016)
  * Methods: Preprocessing, Term Document Matrix, Comparative Analysis
  
-### [Text clustering of the Economic Report of the President](codes/text_clustering.R)
+### [Text clustering](codes/text_clustering.R)
  * Data: Economic Report of the President (1947 - 2016)
  * Methods: clustering, visualization
  
-### [Topic modeling of the Economic Report of the President](codes/text_clustering.R)
+### [Topic modeling](codes/text_clustering.R)
  * Data: Economic Report of the President (1947 - 2016)
  * Methods: topic modeling, visualization
  
